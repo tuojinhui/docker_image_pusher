@@ -37,3 +37,4 @@ node:22-alpine3.23
 node:24-alpine3.23
 nginx:1.31-alpine3.23
 nginx:1.31-alpine3.23-slim
+
